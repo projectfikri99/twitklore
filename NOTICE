@@ -1,0 +1,19 @@
+# twitklore
+
+twitklore is a derivative work of **tweet-harvest** by Helmi Satria.
+Upstream: https://github.com/helmisatria/tweet-harvest
+
+The upstream project ships a custom LICENSE file. Its text permits use, study,
+and modification "solely for educational and non-commercial purposes", prohibits
+commercial use, and permits distribution provided the license is included and
+Helmi Satria is credited as the original creator.
+
+This repository is NOT a commercial product. It exists for the author's personal
+and academic use only.
+
+If you intend to use, redistribute, or build on this repository, you are bound by
+the terms of the upstream tweet-harvest LICENSE, reproduced verbatim in
+`UPSTREAM-LICENSE`. That license prohibits commercial use.
+
+Original work copyright (c) Helmi Satria.
+Derived work copyright (c) 2026 Fikri.
